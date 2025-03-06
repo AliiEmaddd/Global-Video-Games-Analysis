@@ -4,12 +4,12 @@
 This repository contains a Power BI dashboard analyzing **global video game sales**, covering key metrics such as total games, units sold, platforms, genres, and publishers. It provides insights into the performance of video games over time, across regions, and by rating.
 
 ## 📌 Key Features
-**📌 Total Games & Units Sold:** Summary of the total number of games and units sold globally.
-**📌 Top Publishers:** Ranking of the top publishers by total number of games.
-**📌 Sales by Year & Genre:** Trends in video game sales over the years and the most popular genres.
-**📌 Regional Sales Distribution:** Breakdown of sales across different regions (North America, Europe, Japan, etc.).
-**📌 Top-Selling Games:** Highlighting the best-selling video games worldwide.
-**📌 Game Ratings & Reviews:** Analysis of user ratings and reviews by genre.
+- **📌 Total Games & Units Sold:** Summary of the total number of games and units sold globally.
+- **📌 Top Publishers:** Ranking of the top publishers by total number of games.
+- **📌 Sales by Year & Genre:** Trends in video game sales over the years and the most popular genres.
+- **📌 Regional Sales Distribution:** Breakdown of sales across different regions (North America, Europe, Japan, etc.).
+- **📌 Top-Selling Games:** Highlighting the best-selling video games worldwide.
+- **📌 Game Ratings & Reviews:** Analysis of user ratings and reviews by genre.
 Data Sources
 The data is aggregated from multiple gaming industry sources, including game publishers, online marketplaces, and review aggregators.
 
