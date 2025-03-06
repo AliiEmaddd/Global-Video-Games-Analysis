@@ -1,4 +1,4 @@
-Global Video Game Sales Analysis 🎮📊
+# Global Video Game Sales Analysis 🎮📊
 Overview
 This repository contains a Power BI dashboard analyzing global video game sales, covering key metrics such as total games, units sold, platforms, genres, and publishers. It provides insights into the performance of video games over time, across regions, and by rating.
 
