@@ -18,12 +18,12 @@ The data is aggregated from multiple gaming industry sources, including game pub
 - **Excel:** For data preprocessing and cleaning.
 
 ## How to Use
-Clone this repository.
-Open the Power BI file (.pbix).
-Explore the different pages to analyze trends in the gaming industry.
+- Clone this repository.
+- Open the Power BI file (.pbix).
+- Explore the different pages to analyze trends in the gaming industry.
 
 ## Insights
-**🎯 Sports & Action games dominate in both total games and units sold.**
-**📈 Game sales peaked in the late 2000s, with top-selling years around 2007-2009.**
-**🌎 North America leads in sales, followed by Europe.**
-**⭐ Highly-rated games receive more reviews, indicating strong player engagement.**
+- **🎯 Sports & Action games dominate in both total games and units sold.**
+- **📈 Game sales peaked in the late 2000s, with top-selling years around 2007-2009.**
+- **🌎 North America leads in sales, followed by Europe.**
+- **⭐ Highly-rated games receive more reviews, indicating strong player engagement.**
